@@ -59,7 +59,7 @@ public class UniversalEnchant extends PotionHandler {
 
     @Override
     public String getVersion() {
-        return "1.0.0";
+        return "1.1.0";
     }
 
     @EventHandler(priority = EventPriority.NORMAL, ignoreCancelled = true)
